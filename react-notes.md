@@ -9,7 +9,7 @@ have a key component already in the JSON data structure.
 
 summarized here...
 
-The .map function is only available on array.
+The .map function is only available on arrays.
 
 It looks like data isn't in the format you are expecting it to be
 
