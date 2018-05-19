@@ -13,7 +13,7 @@ The .map function is only available on array.
 
 It looks like data isn't in the format you are expecting it to be
 
-#(it is {} but you are expecting [])
+**(it is {} but you are expecting [])**
 
 The javascript explanation of how the code should be...
 
