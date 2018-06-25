@@ -1,3 +1,6 @@
+
+## Compose
+
 This concept is shown in the material-ui AppFrame.
 
 ```
