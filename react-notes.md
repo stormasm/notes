@@ -28,3 +28,26 @@ for (const prop in data) {
 ```
 
 [code from here](https://github.com/stormasm/mui-demos/blob/master/checkboxlist/src/CheckboxList-gh.js)
+
+#### Another solution
+
+Output an array of objects
+like in the example repo
+[graphql-redis-github](https://github.com/stormasm/graphql-redis-github)
+
+Or see an example of the outputted data in
+[ghdata](https://github.com/stormasm/ghdata)
+
+Then in the react state variable declare the data to be array
+as defined in **DataViewWrapper** inside
+[ghw-menu](https://github.com/stormasm/ghw-menu)
+
+```
+this.state = {
+  data: [],
+  isLoading: false,
+  error: null,
+  repoName: repoMap[repo],
+  viewName: view
+};
+```
