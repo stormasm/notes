@@ -11,7 +11,7 @@ mkdir src
 cd src
 mkdir istio.io
 cd istio.io
-git clone https://github.com/istio/istio
+git clone git@github.com:istio/istio.git
 make depend
 make build
 ```
