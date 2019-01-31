@@ -18,3 +18,7 @@ In a routed network, this planning and learning can be done through static route
 ##### Data Plane = Actualy moving the packets based on what we learned.
 
 Now, after the routers know how to route for remote networks, along comes a customers packet and BAM! this is were the data plane begins.   The data plane is the actual movement of the customers data packets over the transit path.   (We learned the path to use in the control plane stage earlier).
+
+#### References
+
+[Which Service Mesh Should I Use](https://thenewstack.io/which-service-mesh-should-i-use/)
