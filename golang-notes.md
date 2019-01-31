@@ -3,7 +3,7 @@
 
 We will use
 [istio](https://github.com/istio/istio) as an example
-of how to build a Golang app that does not have go.mod
+of how to build a Golang app that does not have **go.mod**
 at the top level in its repository.
 
 ```
