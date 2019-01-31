@@ -18,7 +18,7 @@ make build
 
 We will use
 [hugo](https://github.com/gohugoio/hugo) as an example
-of how to build a Golang app that does have it...
+of how to build a Golang app that does have it...   
 [Here are the instructions for Hugo](https://github.com/gohugoio/hugo#fetch-from-github)
 
 #### Setup from Scratch
