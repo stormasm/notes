@@ -45,6 +45,13 @@ go mod init github.com/stormasm/redishacker
 go test -run TestBulkStringRequestSetString
 ```
 
+* Shows how to clear the testing cache every time
+* Shows how to do verbose test logging
+
+```
+go test -count=1 -v ./galley/pkg/source/kube -run Builtin
+```
+
 #### Running
 
 ```

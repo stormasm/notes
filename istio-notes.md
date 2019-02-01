@@ -22,3 +22,11 @@ Now, after the routers know how to route for remote networks, along comes a cust
 #### References
 
 [Which Service Mesh Should I Use](https://thenewstack.io/which-service-mesh-should-i-use/)
+
+##### Istio Makefile
+
+```
+.PHONY: galley-test2
+galley-test2: depend
+	go test -count=1 -v ./galley/pkg/source/kube -run Builtin
+```
