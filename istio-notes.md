@@ -23,7 +23,7 @@ Now, after the routers know how to route for remote networks, along comes a cust
 
 [Which Service Mesh Should I Use](https://thenewstack.io/which-service-mesh-should-i-use/)
 
-[A Crash Course for running Istio](https://medium.com/namely-labs/a-crash-course-for-running-istio-1c6125930715)
+[A Crash Course for Running Istio](https://medium.com/namely-labs/a-crash-course-for-running-istio-1c6125930715)
 
 ##### Istio Makefile
 
