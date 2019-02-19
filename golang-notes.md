@@ -1,6 +1,32 @@
 
 #### Example Go builds
 
+Assuming you do NOT have a **GOPATH** set; this will build and put
+the working binaries in ~/go/bin
+
+We will use
+[vegeta](https://github.com/tsenart/vegeta)
+```
+go get -u github.com/tsenart/vegeta
+```
+
+We will use
+[k6](https://github.com/loadimpact/k6)
+```
+go get github.com/loadimpact/k6
+```
+
+If you do have a **GOPATH** set; this will put everything
+in the exact same spot as not having a **GOPATH** set but
+in the spot of where GOPATH is set...
+
+```
+cd /tmp10
+gop
+gopc
+Then run above commands
+```
+
 We will use
 [istio](https://github.com/istio/istio) as an example
 of how to build a Golang app that does not have **go.mod**
