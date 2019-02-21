@@ -1,4 +1,6 @@
 
+#### For repos that have go.mod
+
 The model is https://github.com/gohugoio/hugo#fetch-from-github
 
 Example for https://github.com/asdine/storm
