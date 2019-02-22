@@ -1,6 +1,17 @@
 
 #### Example Go builds
 
+```
+go help get
+```
+
+The -t flag instructs get to also download the packages required to build
+the tests for the specified packages.
+
+The -u flag instructs get to use the network to update the named packages
+and their dependencies. By default, get uses the network to check out
+missing packages but does not use it to look for updates to existing packages.
+
 Assuming you do NOT have a **GOPATH** set; this will build and put
 the working binaries in ~/go/bin
 
@@ -20,11 +31,28 @@ If you do have a **GOPATH** set; this will put everything
 in the exact same spot as not having a **GOPATH** set but
 in the spot of where GOPATH is set...
 
+We will use
+[badger](https://github.com/dgraph-io/badger#installing)
+
 ```
-cd /tmp10
+cd /tmpXX
 gop
 gopc
-Then run above commands
+go get -t github.com/dgraph-io/badger/...
+cd src/github.com/dgraph-io/badger/
+go test -v
+```
+
+We will use
+[tormenta](https://github.com/jpincas/tormenta)
+
+```
+cd /tmpXX
+gop
+gopc
+go get -t github.com/jpincas/tormenta
+cd src/github.com/jpincas/tormenta/
+go test -v
 ```
 
 We will use
