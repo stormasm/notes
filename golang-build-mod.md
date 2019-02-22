@@ -1,4 +1,12 @@
 
+
+#### Golang Environment Variables
+
+[From Here](https://golang.org/cmd/go/#hdr-Environment_variables)
+
+GOBIN
+	The directory where 'go install' will install a command.
+
 #### For repos that have go.mod
 
 The model is https://github.com/gohugoio/hugo#fetch-from-github
