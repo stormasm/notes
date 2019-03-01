@@ -2,11 +2,14 @@
 Here are some basic tile38 commands
 
 ```
-jset storm michael color purple
-jset storm michael location corvallis
+jset radner michael color purple
+jset radner michael location corvallis
 jset smith michele color green
 jset smith michele location earth
 
-set hirshberg pete string none
-set hirshberg pete field age 58 string none
+set brown pete string none
+set brown pete field age 58 string none
+
+fset brown pete year 1958
+scan brown
 ```
