@@ -120,16 +120,22 @@ Assumes we are using go.mod and no GOPATH
 
 From a top level tmp directory
 
-mkdir src
+```
+mkdir src   
 git clone git@github.com:pelletier/go-toml.git
+```
 
 **And here is the key point**
 
 You must be in a directory with a package main for go build to work...
 
+```
 cd cmd/tomljson
 go build
+```
+
+And if you want the binary called **rick** instead of tomljson
 
 ```
-go build -o myfetch ./fetch/.
+go build -o rick
 ```
