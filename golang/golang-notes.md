@@ -115,6 +115,21 @@ go run fetch.go
 
 #### Building
 
+So this took me a while to figure out...
+Assumes we are using go.mod and no GOPATH
+
+From a top level tmp directory
+
+mkdir src
+git clone git@github.com:pelletier/go-toml.git
+
+**And here is the key point**
+
+You must be in a directory with a package main for go build to work...
+
+cd cmd/tomljson
+go build
+
 ```
 go build -o myfetch ./fetch/.
 ```
