@@ -127,7 +127,7 @@ git clone git@github.com:pelletier/go-toml.git
 
 **And here is the key point**
 
-You must be in a directory with a package main for go build to work...
+You must be in a directory with a package **main** for go build to work...
 
 ```
 cd cmd/tomljson
