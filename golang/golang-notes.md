@@ -139,3 +139,25 @@ And if you want the binary called **rick** instead of tomljson
 ```
 go build -o rick
 ```
+
+##### Yet another example
+
+In the [flux repo](https://github.com/influxdata/flux)
+
+If you...
+
+```
+cd cmd/flux
+go build
+```
+
+It will put the binary right there in that directory.
+
+If you...
+
+```
+go install
+```
+
+It will put the binary in **~/go/bin** or whatever GOBIN is defined to be...
+**PLUS** it will remove the binary from the directory where go build was previously run...
