@@ -93,7 +93,11 @@ At the top level of any repo type this command
 go mod init github.com/stormasm/redishacker
 ```
 
-#### Testing
+### Testing
+
+```
+go test -run TestBulkStringRequestSetString
+```
 
 #### Benchmark Testing
 
@@ -103,9 +107,7 @@ go mod init github.com/stormasm/redishacker
 gtvr BenchmarkCount -bench=BenchmarkCount
 ```
 
-```
-go test -run TestBulkStringRequestSetString
-```
+#### How to clear the test cache and do verbose logging
 
 * Shows how to clear the testing cache every time
 * Shows how to do verbose test logging
