@@ -95,6 +95,14 @@ go mod init github.com/stormasm/redishacker
 
 #### Testing
 
+#### Benchmark Testing
+
+[count_test.go](https://github.com/influxdata/flux/blob/master/stdlib/universe/count_test.go)
+
+```
+gtvr BenchmarkCount -bench=BenchmarkCount
+```
+
 ```
 go test -run TestBulkStringRequestSetString
 ```

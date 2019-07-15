@@ -12,3 +12,11 @@ For the top level Makefile for the flux project
 ```
 export GO_TEST=env GO111MODULE=on go test -count=1 $(GO_ARGS)
 ```
+
+#### Benchmark Testing
+
+[count_test.go](https://github.com/influxdata/flux/blob/master/stdlib/universe/count_test.go)
+
+```
+gtvr BenchmarkCount -bench=BenchmarkCount
+```
