@@ -1,4 +1,15 @@
 
+Last updated Oct 24, 2019
+
+If go.mod is already in the repo...
+
+```
+git clone git@github.com:expectedsh/go-sonic.git
+cd go-sonic
+go build ./...
+go test ./...
+go run cmd/example/main.go
+```
 
 #### Golang Environment Variables
 
