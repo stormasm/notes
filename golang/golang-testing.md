@@ -39,43 +39,30 @@ Here are my aliases for testing...
 
 ### Aliases for Testing across all filenames in a directory
 
+```
 alias gt='go test'
 alias gtv='gt -v'
+```
 
 ### Aliases for Testing names of tests inside files
 
+```
 alias gtr='go test -run'
 alias gtvr='gtv -run'
+```
 
 ### This will run all of the tests in a particular directory
 
+```
 alias gtd='go test ./...'
 alias gtdv='go test -v ./...'
+```
 
+##### Bench testing
+
+```
 alias gtb='go test -v -bench .'
 alias gtb1='go test -v -bench=SlowIcingManyIcers'
-
-
-
-
-
-
-
-
-##### Aliases for Testing across all of the files in a directory
-
-```
-alias gt='go test'
-
-alias gtv='gt -v'
-alias gtvr='gtv -run'
-```
-
-##### This will run all of the tests in a particular directory
-
-```
-alias gtd='go test ./...'
-alias gtdv='go test -v ./...'
 ```
 
 ##### You must look inside the file at the code to grab an actual test name
