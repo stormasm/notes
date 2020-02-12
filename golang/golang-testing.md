@@ -15,6 +15,23 @@ export GO_TEST=env GO111MODULE=on go test -count=1 $(GO_ARGS)
 
 ### Testing
 
+Here are my aliases for testing...
+
+##### Aliases for Testing
+
+```
+alias gt='go test'
+alias gtv='gt -v'
+alias gtvr='gtv -run'
+```
+
+##### This will run all of the tests in a particular directory
+
+```
+alias gtd='go test ./...'
+alias gtdv='go test -v ./...'
+```
+
 ```
 go test -run TestBulkStringRequestSetString
 ```
