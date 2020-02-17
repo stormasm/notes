@@ -75,6 +75,14 @@ go test -run TestBulkStringRequestSetString
 
 #### Benchmark Testing
 
+[Ref dave.cheney](https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go)
+
+[index_test.go](https://github.com/influxdata/influxdb/blob/master/tsdb/index_test.go)
+
+```
+go test -bench=BenchmarkIndex_ConcurrentWriteQuery
+```
+
 [count_test.go](https://github.com/influxdata/flux/blob/master/stdlib/universe/count_test.go)
 
 ```
