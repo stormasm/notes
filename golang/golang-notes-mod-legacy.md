@@ -28,6 +28,8 @@ quote aapl
 quote msft
 ```
 
+# Legacy Go Mod Notes Start Here
+
 ##### If go.mod is already in the repo...
 
 ```
