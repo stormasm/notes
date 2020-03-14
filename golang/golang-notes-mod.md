@@ -6,9 +6,26 @@ Last updated March 14, 2020
 [Using this repo as an example](https://github.com/stormasm/yhoo-gq1)
 
 ```
+To test how to run a repo without go.mod
+Remove the go.mod file from this repo and run this command...
 go mod init github.com/stormasm/yhoo-gq1
-alias gg='go get -t'
+
+Otherwise since go.mod is present...
+go get -t
 go run quote/main.go ui
+
+Or to install a binary
+
+cd quote
+go install
+
+quote will now be installed in $HOME/go/bin
+
+Then once quote is installed go to any directory and type
+
+quote ibm
+quote aapl
+quote msft
 ```
 
 ##### If go.mod is already in the repo...
