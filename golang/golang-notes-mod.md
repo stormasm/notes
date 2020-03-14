@@ -1,7 +1,17 @@
 
-Last updated Oct 24, 2019
+Last updated March 14, 2020
 
-If go.mod is already in the repo...
+[How to create a go.mod from scratch](https://blog.golang.org/using-go-modules)
+
+[Using this repo as an example](https://github.com/stormasm/yhoo-gq1)
+
+```
+go mod init github.com/stormasm/yhoo-gq1
+alias gg='go get -t'
+go run quote/main.go ui
+```
+
+##### If go.mod is already in the repo...
 
 ```
 git clone git@github.com:expectedsh/go-sonic.git
