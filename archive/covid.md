@@ -1,7 +1,7 @@
 
-Number of new cases in Oregon
+Number of new Covid19 cases in Oregon in 2020
 
-|      |     |        | 
+|      |     |        |
 |-     | -   | -      |
 | 3/22 |     |   161  |   
 | 3/23 |  29 |   190  |
