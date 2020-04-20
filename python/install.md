@@ -5,20 +5,32 @@ alias pip='pip3'
 alias pii='pip install .'
 ```
 
+pip is a system level utility and so to upgrade it run
+```
+sudo pip3 install --upgrade pip
+```
+when you run in sudo mode you must explicitly type pip3
+
+It will install things run with sudo here:
+```
+/Library/Python/3.7/site-packages
+```
+
 ### On MacOs
 
-Out of the box prior to any python installations
+Out of the box prior to any python environment installations
 
 ```
 py -m site --user-base
 yields the following location
 /Users/ma/Library/Python/3.7
-
-So the first thing to upgrade is pip
-pip install --upgrade pip
 ```
 
-Then you can go ahead and turn on these environment variables.  Anytime you want to do system level stuff and install in /Users/ma/Library/Python/3.7
+Then you can go ahead and turn on these environment variables.    
+Anytime you want to install stuff in
+```
+/Users/ma/Library/Python/3.7
+```
 you must turn these environment variables back off
 
 ```
