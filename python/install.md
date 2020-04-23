@@ -16,6 +16,11 @@ It will install things run with sudo here:
 /Library/Python/3.7/site-packages
 ```
 
+Other system level tools to install off the bat.
+```
+sudo pip install -U pytest 
+```
+
 ### On MacOs
 
 Out of the box prior to any python environment installations
