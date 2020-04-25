@@ -50,4 +50,4 @@ export PIP_USER=yes
 
 To install a github repo simply run this command. The repo must have a setup.py file.
 
-pii
+pidot
