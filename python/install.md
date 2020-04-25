@@ -21,6 +21,8 @@ Other system level tools to install off the bat.
 ```
 sudo pip3 install -U pytest
 sudo pip3 install -U jupyter
+
+sudo -H pip3 list
 ```
 
 ### On MacOs
