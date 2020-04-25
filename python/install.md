@@ -2,7 +2,7 @@
 ```
 alias py='python3'
 alias pip='pip3'
-alias pii='pip install .'
+alias pidot='pip install .'
 ```
 
 pip is a system level utility and so to upgrade it run
