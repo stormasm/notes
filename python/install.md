@@ -17,8 +17,10 @@ It will install things run with sudo here:
 ```
 
 Other system level tools to install off the bat.
+
 ```
-sudo pip install -U pytest 
+sudo pip3 install -U pytest
+sudo pip3 install -U jupyter
 ```
 
 ### On MacOs
