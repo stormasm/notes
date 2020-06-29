@@ -1,7 +1,7 @@
 
 ## Samadhi
 
-[samadhi movie](https://www.youtube.com/watch?v=Bw9zSMsKcwk)
+[samadhi movie on youtube](https://www.youtube.com/watch?v=Bw9zSMsKcwk)   
 june 29, 2020
 
 samadhi is an ancient sanskrit word for which there is no modern equivalent
