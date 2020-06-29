@@ -24,3 +24,5 @@ this forgetting is maya the illusion of the self.
 
 #### References
 https://en.wikipedia.org/wiki/Sanskrit
+
+[This note on Google docs](https://docs.google.com/document/d/e/2PACX-1vQIjnEygLNkOxlfrW9ibbPqoCRXFegTMNxZJJCbTrU_wnPIEKnAsAv6C09urYtjyiuC2YWeQMCnWnEP/pub)   
