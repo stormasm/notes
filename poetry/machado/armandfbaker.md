@@ -17,16 +17,16 @@ voy caminando por la calle vieja.
 
 Translated by Baker
 
-The much beloved house
-where she used to live,
-ruined or demolished,
-on a mountain of refuse, revealing
-the black and worm-eaten,
-rickety skeleton of wood.
-The moon is pouring out
-its bright light that makes silver
-dreams on the windows. Shabby and sad,
-I go on walking down the old street.
+The much beloved house  
+where she used to live,  
+ruined or demolished,  
+on a mountain of refuse, revealing  
+the black and worm-eaten,  
+rickety skeleton of wood.  
+The moon is pouring out  
+its bright light that makes silver  
+dreams on the windows. Shabby and sad,  
+I go on walking down the old street.  
 
 Translated by Barnstone
 
@@ -40,4 +40,4 @@ collapsing skeleton of wood.
 The moon is pouring down
 her pristine light in dreams that plate
 the windows silver.  Shabby and sad
-I go walking along the old street. 
+I go walking along the old street.
