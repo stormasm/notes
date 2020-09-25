@@ -7,9 +7,9 @@ The poet read and loved philosophy.  But he iterated many times that logic doesn
 
 ### Spain when Antonio Machado began to write
 
-By Willis Barnstone
-Antonio Machado
-Border of a Dream: Selected Poems
-ISBN-13: 978-1556591983
-ISBN-10: 1556591985
+By Willis Barnstone  
+Antonio Machado  
+Border of a Dream: Selected Poems  
+ISBN-13: 978-1556591983  
+ISBN-10: 1556591985  
 [Ref](https://www.coppercanyonpress.org/books/border-of-a-dream-selected-poems-by-antonio-machado-tr-willis-barnstone/)
