@@ -30,14 +30,14 @@ I go on walking down the old street.
 
 Translated by Barnstone
 
-The house I loved so much
-where she had lived
-now, over a mound of broken walls and floors
-and flattened debris, is just
-a black termite eaten
-collapsing skeleton of wood.
+The house I loved so much  
+where she had lived  
+now, over a mound of broken walls and floors  
+and flattened debris, is just  
+a black termite eaten  
+collapsing skeleton of wood.  
 
-The moon is pouring down
-her pristine light in dreams that plate
-the windows silver.  Shabby and sad
-I go walking along the old street.
+The moon is pouring down  
+her pristine light in dreams that plate  
+the windows silver.  Shabby and sad  
+I go walking along the old street.  
