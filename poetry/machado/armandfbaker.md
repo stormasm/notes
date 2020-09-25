@@ -1,18 +1,18 @@
 
-La Casa Tan Querida
-The House I loved so much
+La Casa Tan Querida   
+The House I loved so much   
 
-La casa tan querida
-donde habitaba ella,
-sobre un montón de escombros
-arruinada o derruida, enseña
-el negro y carcomido
-mal trabado esqueleto de madera.
+La casa tan querida   
+donde habitaba ella,   
+sobre un montón de escombros   
+arruinada o derruida, enseña  
+el negro y carcomido  
+mal trabado esqueleto de madera.  
 
-La luna está vertiendo
-su clara luz en sueños que platea
-en las vantanas.
-Mal vestido y triste,
+La luna está vertiendo  
+su clara luz en sueños que platea  
+en las vantanas.  
+Mal vestido y triste,  
 voy caminando por la calle vieja.
 
 Translated by Baker
@@ -26,7 +26,7 @@ rickety skeleton of wood.
 The moon is pouring out
 its bright light that makes silver
 dreams on the windows. Shabby and sad,
-I go on walking down the old street.
+I go on walking down the old street. 
 
 Translated by Barnstone
 
