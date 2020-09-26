@@ -54,11 +54,11 @@ and landed on a hundred shores.
 
 Everywhere I have seen cavalcades of sadness,  
 proud and melancholy drunkards with black shadows,  
-melodramatic pedants who gaze,
-are silent and think they know it all,
+melodramatic pedants who gaze,  
+are silent and think they know it all,  
 because they don't drink wine in taverns.  
 Malicious folk who go around bad-mouthing all they see...  
-And everywhere I have seen people who dance or play whenever they can,
+And everywhere I have seen people who dance or play whenever they can,  
 and they tend their little plot of land.  
 
 If they ever get some place they never ask where they are.  
