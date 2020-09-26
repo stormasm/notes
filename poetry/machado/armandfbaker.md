@@ -61,7 +61,7 @@ Malicious folk who go around bad-mouthing all they see...
 And everywhere I have seen people who dance or play whenever they can,
 and they tend their little plot of land.  
 
-If they ever get some place they never ask where they are.
+If they ever get some place they never ask where they are.  
 When they travel, they ride on the back of an old mule,  
 never trying to hurry  
 not even on holidays.  
