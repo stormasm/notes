@@ -15,7 +15,7 @@ en las vantanas.
 Mal vestido y triste,  
 voy caminando por la calle vieja.
 
-Translated by Baker
+##### Translated by Baker
 
 The much beloved house  
 where she used to live,  
@@ -28,7 +28,7 @@ its bright light that makes silver
 dreams on the windows. Shabby and sad,  
 I go on walking down the old street.  
 
-Translated by Barnstone
+##### Translated by Barnstone
 
 The house I loved so much  
 where she had lived  
@@ -42,10 +42,47 @@ her pristine light in dreams that plate
 the windows silver.  Shabby and sad  
 I go walking along the old street.  
 
-
-
 ### I Have Walked Down Many Roads
-Translated by Baker
+
+He andado muchos caminos,  
+he abierto muchas veredas;  
+he navigado en cien mares  
+y atracado en cien riberas.  
+
+En todas partes he visto  
+caravanas de tristeza,  
+soberios y melancólicos  
+borrachos de sombra negra,  
+
+y pedantones al paño  
+que miran, callan y piensan  
+que saben, porque no beben  
+el vino de las tabernas.
+
+Mala gente que camina  
+y va apestando la tierra...
+
+Y en todas partes he visto  
+gentes que danzan o juegan,  
+cuando pueden, y laboran  
+sus cuatro palmos de tierra.
+
+Nunca, si llegan a un sitio,  
+preguntan adónde llegan.  
+Cuando caminan cabalgan  
+a lomos de mula vieja,
+
+y no conocen la prisa  
+ni aun en los días de fiesta.  
+Donde hay vino beben vino;  
+donde no hay vino, agua fresca.
+
+Son buenas gentes que viven,  
+laboran, pasan y sueñan,  
+y en un día como tantos  
+descansan bajo la tierra.
+
+##### Translated by Baker
 
 I have traveled many roads,   
 I have created many paths;    
@@ -71,11 +108,7 @@ They are good people who live, work, pass by and dream,
 and one day like all of us  
 they rest under the earth.  
 
-
-
-
-
-Translated by Don Share
+##### Translated by Don Share
 
 I have walked down many roads  
 and cleared many paths;  
