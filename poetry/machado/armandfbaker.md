@@ -45,6 +45,36 @@ I go walking along the old street.
 
 
 ### I Have Walked Down Many Roads
+Translated by Baker
+
+I have traveled many roads,   
+I have created many paths;    
+I have sailed a hundred seas
+and landed on a hundred shores.
+
+Everywhere I have seen cavalcades of sadness,  
+proud and melancholy drunkards with black shadows,  
+melodramatic pedants who gaze,
+are silent and think they know it all,
+because they don't drink wine in taverns.  
+Malicious folk who go around bad-mouthing all they see...  
+And everywhere I have seen people who dance or play whenever they can,
+and they tend their little plot of land.  
+
+If they ever get some place they never ask where they are.
+When they travel, they ride on the back of an old mule,  
+never trying to hurry  
+not even on holidays.  
+
+If there's wine, they drink wine; where there's none, fresh water.  
+They are good people who live, work, pass by and dream,  
+and one day like all of us  
+they rest under the earth.  
+
+
+
+
+
 Translated by Don Share
 
 I have walked down many roads  
