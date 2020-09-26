@@ -1,6 +1,6 @@
 
+### The House I loved so much   
 La Casa Tan Querida   
-The House I loved so much   
 
 La casa tan querida   
 donde habitaba ella,   
@@ -41,3 +41,48 @@ The moon is pouring down
 her pristine light in dreams that plate  
 the windows silver.  Shabby and sad  
 I go walking along the old street.  
+
+
+
+#### I Have Walked Down Many Roads
+Translated by Don Share
+
+I have walked down many roads
+and cleared many paths;
+I have navigated a hundred oceans
+and anchored off a hundred shores.
+
+All over, I have seen
+caravans of sadness,
+pompous and melancholy men
+drunk with black shadows,
+
+and defrocked pedants
+who stare, keep quiet, and think
+they know, because they don’t
+drink wine in the neighborhood bars.
+
+Bad people who go around
+polluting the earth . . .
+
+And all over, I have seen
+people who dance or play,
+when they can, and work
+their four handfuls of land.
+
+If they turn up someplace,
+they never ask where they are.
+
+When they travel, they ride
+on the backs of old mules,
+
+and don’t know how to hurry,
+not even on holidays.
+
+When there’s wine, they drink wine;
+when there’s no wine, they drink cool water.
+
+These are good people, who live,
+work, get by, and dream;
+and on a day like all the others
+they lie down under the earth.”
