@@ -1,6 +1,5 @@
 
 ### The House I loved so much   
-La Casa Tan Querida   
 
 ```
 La casa tan querida   
