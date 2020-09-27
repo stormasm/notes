@@ -1,5 +1,5 @@
 
-### The House I loved so much   
+### the house I loved so much   
 
 ```
 La casa tan querida   
@@ -16,7 +16,7 @@ Mal vestido y triste,
 voy caminando por la calle vieja.
 ```
 
-##### Translated by Baker
+##### translated by Baker
 
 ```
 The much beloved house  
@@ -31,7 +31,7 @@ dreams on the windows. Shabby and sad,
 I go on walking down the old street.  
 ```
 
-##### Translated by Barnstone
+##### translated by Barnstone
 
 ```
 The house I loved so much  
@@ -47,7 +47,7 @@ the windows silver.  Shabby and sad
 I go walking along the old street.  
 ```
 
-### I Have Walked Down Many Roads
+### I have walked down many roads
 
 ```
 He andado muchos caminos,  
@@ -89,7 +89,7 @@ y en un día como tantos
 descansan bajo la tierra.
 ```
 
-##### Translated by Baker
+##### translated by Baker
 
 ```
 I have traveled many roads,   
@@ -117,7 +117,7 @@ and one day like all of us
 they rest under the earth.  
 ```
 
-##### Translated by Don Share
+##### translated by Don Share
 
 ````
 I have walked down many roads  
