@@ -3,4 +3,5 @@
 
 All our life is usually given over to fearing death and keeping it away from us, or rather, keeping ourselves away from it.  Antonio Machado apprehended it in itself, yielded to it in large measure.  Possibly, more than a man who was born, he was a man reborn."
 
-[Juan Ramon Jimenez, 1940](https://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez)  [ref spanish](https://es.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez)
+[Juan Ramon Jimenez, 1940](https://en.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez)  
+[wikipedia spanish version](https://es.wikipedia.org/wiki/Juan_Ram%C3%B3n_Jim%C3%A9nez)
