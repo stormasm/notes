@@ -38,6 +38,7 @@ sad, tired, pensive, old.
 
 Although after Leonor's death Machado immediately requested and obtained a new post and so left Soria forever, the obsessive memory and conscious daydream of Leonor and Castilla stayed with him throughout his life."   
 
--- [Willis Barnstone](https://en.wikipedia.org/wiki/Willis_Barnstone)
-[Antonio Machado Border of a Dream: Selected Poems](https://www.coppercanyonpress.org/books/border-of-a-dream-selected-poems-by-antonio-machado-tr-willis-barnstone/)   
+-- [Willis Barnstone](https://en.wikipedia.org/wiki/Willis_Barnstone)  
 [wikipedia spanish verison](https://es.wikipedia.org/wiki/Willis_Barnstone)
+
+[Antonio Machado Border of a Dream: Selected Poems](https://www.coppercanyonpress.org/books/border-of-a-dream-selected-poems-by-antonio-machado-tr-willis-barnstone/)   
