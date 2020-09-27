@@ -2,6 +2,7 @@
 ### The House I loved so much   
 La Casa Tan Querida   
 
+```
 La casa tan querida   
 donde habitaba ella,   
 sobre un montón de escombros   
@@ -14,9 +15,11 @@ su clara luz en sueños que platea
 en las vantanas.  
 Mal vestido y triste,  
 voy caminando por la calle vieja.
+```
 
 ##### Translated by Baker
 
+```
 The much beloved house  
 where she used to live,  
 ruined or demolished,  
@@ -27,9 +30,11 @@ The moon is pouring out
 its bright light that makes silver  
 dreams on the windows. Shabby and sad,  
 I go on walking down the old street.  
+```
 
 ##### Translated by Barnstone
 
+```
 The house I loved so much  
 where she had lived  
 now, over a mound of broken walls and floors  
@@ -41,9 +46,11 @@ The moon is pouring down
 her pristine light in dreams that plate  
 the windows silver.  Shabby and sad  
 I go walking along the old street.  
+```
 
 ### I Have Walked Down Many Roads
 
+```
 He andado muchos caminos,  
 he abierto muchas veredas;  
 he navigado en cien mares  
@@ -81,9 +88,11 @@ Son buenas gentes que viven,
 laboran, pasan y sueñan,  
 y en un día como tantos  
 descansan bajo la tierra.
+```
 
 ##### Translated by Baker
 
+```
 I have traveled many roads,   
 I have created many paths;    
 I have sailed a hundred seas
@@ -107,9 +116,11 @@ If there's wine, they drink wine; where there's none, fresh water.
 They are good people who live, work, pass by and dream,  
 and one day like all of us  
 they rest under the earth.  
+```
 
 ##### Translated by Don Share
 
+````
 I have walked down many roads  
 and cleared many paths;  
 I have navigated a hundred oceans  
@@ -149,3 +160,4 @@ These are good people, who live,
 work, get by, and dream;  
 and on a day like all the others  
 they lie down under the earth.”  
+```
