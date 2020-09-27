@@ -17,7 +17,7 @@ The poet read and loved philosophy.  But he iterated many times that logic doesn
 ### Spain when Antonio Machado began to write
 
 [Generation of 98](https://en.wikipedia.org/wiki/Generation_of_%2798)     
-[Wikipedia reference spanish](https://es.wikipedia.org/wiki/Generaci%C3%B3n_del_98)
+[wikipedia spanish version](https://es.wikipedia.org/wiki/Generaci%C3%B3n_del_98)
 
 ### Soria and the hills of blue Ash
 
