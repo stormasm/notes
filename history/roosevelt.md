@@ -12,3 +12,5 @@ The America over which Roosevelt presided in 1940 was in its eleventh year of de
 Of those who worked, one half of the men and two-thirds of the women earned less that $1000 per year.  Only 48 thousand taxpayers in a population of 132 million earned more than $2500 per year.
 
 Ref: employment and tax statistics:  historical statistics of the united states colonial times to 1957 (1961) pp 67 - 73, 713 - 715
+
+[Google Search Term](https://www.google.com/search?q=employment+and+tax+statistics%3A+historical+statistics+of+the+united+states+colonial+times+to+1957&oq=employment+and+tax+statistics%3A+historical+statistics+of+the+united+states+colonial+times+to+1957&aqs=chrome..69i57.857j0j7&sourceid=chrome&ie=UTF-8)
