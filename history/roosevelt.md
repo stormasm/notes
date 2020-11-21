@@ -2,7 +2,7 @@
 Historical Notes from the book Ken gave me to read in November 2020.
 
 ##### Doris Kearns Goodwin   
-[No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II](https://www.thriftbooks.com/w/no-ordinary-time-franklin-and-eleanor-roosevelt-the-home-front-in-world-war-ii_doris-kearns-goodwin/245738/item/4474260/?mkwid=%7cdc&pcrid=450663950280&pkw=&pmt=&slid=&plc=&pgrid=104669221093&ptaid=pla-929394388930&gclid=Cj0KCQiAkuP9BRCkARIsAKGLE8XwUtK0MudQAzgOT4M6ufMatDUD-zmdmwdmPV65io3jhxqrustXUywaApr2EALw_wcB#idiq=4474260&edition=2275617)
+[No Ordinary Time: Franklin and Eleanor Roosevelt: The Home Front in World War II](https://www.thriftbooks.com/w/no-ordinary-time-franklin-and-eleanor-roosevelt-the-home-front-in-world-war-ii_doris-kearns-goodwin/245738/item/4474260/#edition=2275617&idiq=2940521)
 
 Chapter 2: A few nice boys with BB guns
 
