@@ -1,28 +1,12 @@
-Introduction to Antonio Machado
+* [Introduction to Antonio Machado](https://github.com/stormasm/notes/blob/main/poetry/machado/introduction.md)
 
+* [Here are some poems by Antonio Machado in both Spanish and English](https://github.com/stormasm/notes/blob/main/poetry/machado/poems.md)
 
-Antonio Machado Introduction
+* [Here are some references to Machado](https://github.com/stormasm/notes/blob/main/poetry/machado/references.md)
 
+* [Here are some Youtube references to Machado](https://github.com/stormasm/notes/blob/main/poetry/machado/youtube.md)
 
-Here are some poems by Antonio Machado in both Spanish and English
-
-
-Antonio Machado Poems
-
-
-Here are some references to Machado
-
-
-Antonio Machado References
-
-
-Here are some Youtube references to Machado
-
-
-Antonio Machado Youtube
-
-Favorite Poems
-
+## Favorite Poems
 
 ### Traveler there is no Road
 
