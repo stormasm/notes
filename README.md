@@ -1,7 +1,2 @@
-# notes
 
-There are (2) areas of github repos that are ripe for removal...
-
-* tabular repos
-
-* markdown repos
+* [Antonio Machado](https://github.com/stormasm/notes/blob/main/poetry/machado/Readme.md)
