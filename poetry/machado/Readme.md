@@ -21,7 +21,6 @@ Here are some Youtube references to Machado
 
 Antonio Machado Youtube
 
-
 Favorite Poems
 
 
@@ -74,3 +73,5 @@ on black science.
 
 Written by Antonio Machado  
 Translated by Willis Barnstone
+
+ * Ref: [Google Doc](https://docs.google.com/document/d/e/2PACX-1vQ3V6XJtKFgc_ZsPinfTg7Kar6ZZ_AFGirbEhSMTqIDNIGOEPRyhB9yIw6n_m4cGbV390iClLI5keRt/pub)
