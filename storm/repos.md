@@ -6,6 +6,7 @@ For example they do not fall into a language category like
 
 ### Equity
 
+* [edgar-data](https://github.com/stormasm/edgar-data)
 * [equity-ark](https://github.com/stormasm/equity-ark)
 * [equity-data](https://github.com/stormasm/equity-data)
 * [equity-etf](https://github.com/stormasm/equity-etf)
