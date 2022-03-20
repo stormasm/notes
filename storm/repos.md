@@ -10,6 +10,7 @@ For example they do not fall into a language category like
 * [equity-ark](https://github.com/stormasm/equity-ark)
 * [equity-data](https://github.com/stormasm/equity-data)
 * [equity-etf](https://github.com/stormasm/equity-etf)
+* [equity-fun](https://github.com/stormasm/equity-fun)
 * [equity-reports](https://github.com/stormasm/equity-reports)
 * [equity-symbols](https://github.com/stormasm/equity-symbols)
 
