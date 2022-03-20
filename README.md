@@ -1,2 +1,2 @@
 
-* [Antonio Machado](https://github.com/stormasm/notes/blob/main/poetry/machado/Readme.md)
+* [Antonio Machado](https://github.com/stormasm/poetry/tree/main/machado)
