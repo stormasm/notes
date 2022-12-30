@@ -1,11 +1,32 @@
 
-### Thomas Pynchon Notes from Sharon Hawley
+### Thomas Pynchon Notes from Sharon
 
-https://www.youtube.com/watch?v=8sERtP1W4kY  this is long but very interesting,” says Michael.  It’s about “Gravity’s Rainbow”—1960’s, by one of Pynchon’s fans.  Gravity—stones falling like rain ->  rainbow.  Enjoyment diminishes as you see more of something—not true says Pynchon   Multilayered.  It lacks structure.  Weird fantasies.  4 sections in the book.  Teaches a new way to read.  How to hear a novel.  The book is about (not the plot) but the end of WWII and the V-2 German rockets—an instrument of divine will—no.  Gets into the mind of Germans and the Holocaust.  Hitler’s mania.  What does the V-2 rocket symbolize?  Meticulous research by Pynchon.  Understanding culture.  The hero is on a quest on V-2’s.  Lots of criticism on the book.  Networks of details.  Politics and morality.  Dismemberment—things wind blown and fragment.  Skeptical of being included in the culture.  Instrumentality of the media.  Uncertainty principle applied to politics.  The art of excess—art that takes risks.  Forces of power, rather that individuals.  Go to Pynchon for a human response, not for science.  It is a movie/book with allusions to truths.  No distinction between illusion and reality.  Form, rather than experience.  Deliberate ambiguity.  The workings of history.  Focus on the journey.  Germany is not the only author of genocide.   A presence buried in the past.   Life’s endless war against the sdlf  you cannot life without.
+### Entry One
+
+https://www.youtube.com/watch?v=8sERtP1W4kY  
+this is long but very interesting,” says Michael.  
+
+It’s about “Gravity’s Rainbow”—1960’s, by one of Pynchon’s fans.  Gravity—stones falling like rain ->  rainbow.  Enjoyment diminishes as you see more of something—not true says Pynchon Multilayered.  It lacks structure.  Weird fantasies.  
+
+4 sections in the book.  
+
+Teaches a new way to read.  How to hear a novel.  The book is about (not the plot) but the end of WWII and the V-2 German rockets—an instrument of divine will—no.  Gets into the mind of Germans and the Holocaust.  Hitler’s mania.  
+
+What does the V-2 rocket symbolize?  Meticulous research by Pynchon.  Understanding culture.  The hero is on a quest on V-2’s.  Lots of criticism on the book.  Networks of details.  Politics and morality.  Dismemberment—things wind blown and fragment.  Skeptical of being included in the culture.  Instrumentality of the media.  
+
+Uncertainty principle applied to politics.  
+
+The art of excess—art that takes risks.  Forces of power, rather that individuals.  Go to Pynchon for a human response, not for science.  It is a movie/book with allusions to truths.  No distinction between illusion and reality.  Form, rather than experience.  Deliberate ambiguity.  The workings of history.  
+
+Focus on the journey.  
+
+Germany is not the only author of genocide.   
+
+A presence buried in the past.   Life’s endless war against the self you cannot live without.
 
 Michael, you said this is long, and it is.  But the guy is so fascinated with Pynchon, the male view, and I do love the views of males.  It reminds me of John—another story.
 
-
+### New Entry
 
 https://www.youtube.com/watch?v=3dtqt0bXb4Y more academic stuff,  Michael says.  fiction.  She talks about Pynchon in a way I sort of understand, but not as I better understand a male view.  The threat of mortality.  Language as a mediating force.  A female view of male.  ( I get it, but lose interest.)  Why see men they way women do?   Let her go, she’s on a rant.  I can easily do that.  What I want is a man’s view of man.  A man’s view of woman.
 
