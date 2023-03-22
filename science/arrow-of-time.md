@@ -78,7 +78,7 @@ Give yourself some time over the next number of weeks and months, think about th
 
 kind of / sort of / is more understandable....
 
-### References
+## References
 
 * [The Nobel Prize in Physics 2022](https://www.nobelprize.org/prizes/physics/2022/summary/)
 
