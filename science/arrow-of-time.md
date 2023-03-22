@@ -11,37 +11,37 @@ See references at the end for further details
 
 ## Note 1 on this topic
 
-If you see an idea pop up enough
-which I have
-and you really start to think
-hard about it
+If you see an idea pop up enough  
+which I have  
+and you really start to think  
+hard about it  
 it actually starts to make some sense
 
-it's these crazy ideas
-the ones that at first you say this is BS
+it's these crazy ideas  
+the ones that at first you say this is BS  
 that are the hardest ones to actually believe
 
-but imagine if all you ever hear is that the earth
-is round and then as a young child you see
+but imagine if all you ever hear is that the earth  
+is round and then as a young child you see  
 the round earth then you go "of course"
 
-well imagine if there were visualizations of
-this concept ----
-well there are
+well imagine if there were visualizations of  
+this concept ----  
+well there are  
 and they live at the "quantum scale"
 
-but then when you start to think about
+but then when you start to think about  
 things you know well in your life
 
-and you say "you know" this concept
+and you say "you know" this concept  
 could actually work
 
-then you go "holy sh-t"
+then you go "holy sh-t"  
 
-I think I am starting to get there
+I think I am starting to get there  
 in my most recent thought experiments
 
-this is also related possibly to the metaphor of
+this is also related possibly to the metaphor of  
 "this is all just a computer simulation"
 
 ## Note 2 on this topic
