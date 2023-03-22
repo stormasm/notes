@@ -82,8 +82,10 @@ kind of / sort of / is more understandable....
 
 * [The Nobel Prize in Physics 2022](https://www.nobelprize.org/prizes/physics/2022/summary/)
 
-* [The little-known story behind the 2022 Nobel Prize in physics ](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
-
-* [Hacker News Reference: The little-known story behind the 2022 Nobel Prize in physics ](https://news.ycombinator.com/item?id=35222029)
+* [The little known story behind the 2022 Nobel Prize in physics ](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
 
 * [Arrow of Time](https://www.wired.com/2016/09/arrow-of-time/)
+
+## Hacker News Ancillary
+
+* [The little-known story behind the 2022 Nobel Prize in physics](https://news.ycombinator.com/item?id=35222029)
