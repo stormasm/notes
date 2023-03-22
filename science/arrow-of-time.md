@@ -2,7 +2,7 @@
 
 **“I’ve found our instincts of time and causation are our deepest, strongest instincts that physicists and philosophers—and humans—are loath to give up,” he added.**
 
-### Note 1 on this topic
+## Note 1 on this topic
 
 If you see an idea pop up enough
 which I have
