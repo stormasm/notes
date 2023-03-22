@@ -86,4 +86,4 @@ kind of / sort of / is more understandable....
 
 * [Hacker News Reference: The little-known story behind the 2022 Nobel Prize in physics ](https://news.ycombinator.com/item?id=35222029)
 
-* [arrow-of-time](https://www.wired.com/2016/09/arrow-of-time/)
+* [Arrow of Time](https://www.wired.com/2016/09/arrow-of-time/)
