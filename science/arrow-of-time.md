@@ -2,6 +2,13 @@
 
 **“I’ve found our instincts of time and causation are our deepest, strongest instincts that physicists and philosophers—and humans—are loath to give up,” he added.**
 
+The following article is the motivator for this conversation...
+
+See references at the end for further details
+
+* [A Growing Number of Scientists Are Convinced the Future Influences the Past](https://www.vice.com/en/article/epvgjm/a-growing-number-of-scientists-are-convinced-the-future-influences-the-past)
+
+
 ## Note 1 on this topic
 
 If you see an idea pop up enough
@@ -74,8 +81,6 @@ kind of / sort of / is more understandable....
 ### References
 
 * [The Nobel Prize in Physics 2022](https://www.nobelprize.org/prizes/physics/2022/summary/)
-
-* [A Growing Number of Scientists Are Convinced the Future Influences the Past](https://www.vice.com/en/article/epvgjm/a-growing-number-of-scientists-are-convinced-the-future-influences-the-past)
 
 * [The little-known story behind the 2022 Nobel Prize in physics ](https://www.scientificamerican.com/article/the-little-known-origin-story-behind-the-2022-nobel-prize-in-physics/)
 
