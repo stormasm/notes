@@ -11,6 +11,24 @@ A 13 hour marathon of Grateful Dead music with host Ed K. Enjoy the music of the
 
 A 13 hour marathon of Grateful Dead music with host Ed K. Enjoy the music of the Dead, interviews and some surprises
 
+A 13 hour marathon of Grateful Dead music with host Ed K. Enjoy the music of the Dead, interviews and some surprises
+
+#### 8:47 PM
+Suzanne Vega - Cassidy
+Deadicated Arista
+
+#### 8:40 PM
+Mickey Hart - The Main Ten   
+Rolling Thunder Mickey Hart Catalog 1972 USUG11601436
+
+#### 8:36 PM
+Grateful Dead - Mr. Charlie (Live at Wembley Empire Pool, London, England 4/8/1972)   
+Europe '72, Vol. 2: 4/8/72 (Live at Wembley Empire Pool, London, England) Grateful Dead/Rhino 2011 Rock USRH11001370
+
+#### 8:18 PM
+7 Walkers - New Orleans Crawl   
+7/11/2011 7 Oregon Country Fair Response Records Blues
+
 #### 8:07 PM
 Phil And Friends - Cosmic Charlie   
 4/15/99 Warfield Theater - San Fransisco, Ca. Phil Lesh
