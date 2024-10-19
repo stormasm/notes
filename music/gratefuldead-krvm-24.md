@@ -1,5 +1,5 @@
 
-Grateful Friday   
+# Grateful Friday   
 Oct 18, 2024   
 8:00 AM – 9:00 PM   
 
@@ -238,7 +238,7 @@ the opposite order.
 
 A 13 hour marathon of Grateful Dead music with host Ed K. Enjoy the music of the Dead, interviews and some surprises
 
-Grateful Friday
+## Grateful Friday
 
 8:00 AM
 Grateful Dead - The Golden Road (To Unlimited Devotion)
