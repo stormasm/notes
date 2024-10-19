@@ -9,12 +9,12 @@ With Ed K
 
 A 13 hour marathon of Grateful Dead music with host Ed K. Enjoy the music of the Dead, interviews and some surprises
 
-7:23 PM
+#### 7:23 PM
 Grateful Dead - New Speedway Boogie
 Grateful Dead New Speedway Boogie
 9/20/70 Fillmore East - New York, NY. Grateful Dead
 
-6:44 PM
+#### 6:44 PM
 Grateful Dead - Foolish Heart
 Grateful Dead Foolish Heart
 8/28/88 Autzen Stadium - Eugene, Or. Grateful Dead
