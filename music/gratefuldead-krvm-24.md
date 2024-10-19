@@ -9,6 +9,16 @@ With Ed K
 
 A 13 hour marathon of Grateful Dead music with host Ed K. Enjoy the music of the Dead, interviews and some surprises
 
+A 13 hour marathon of Grateful Dead music with host Ed K. Enjoy the music of the Dead, interviews and some surprises
+
+#### 8:07 PM
+Phil And Friends - Cosmic Charlie   
+4/15/99 Warfield Theater - San Fransisco, Ca. Phil Lesh
+
+#### 8:02 PM
+Brent Mydland - Tons of Steel   
+1982 Unreleased Album Brent Mydland
+
 #### 7:52 PM
 Bob Weir Heaven Help the Fool   
 Arista
