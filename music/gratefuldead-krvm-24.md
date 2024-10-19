@@ -14,7 +14,7 @@ A 13 hour marathon of Grateful Dead music with host Ed K. Enjoy the music of the
 A 13 hour marathon of Grateful Dead music with host Ed K. Enjoy the music of the Dead, interviews and some surprises
 
 #### 8:47 PM
-Suzanne Vega - Cassidy
+Suzanne Vega - Cassidy   
 Deadicated Arista
 
 #### 8:40 PM
