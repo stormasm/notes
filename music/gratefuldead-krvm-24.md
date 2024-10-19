@@ -9,6 +9,14 @@ With Ed K
 
 A 13 hour marathon of Grateful Dead music with host Ed K. Enjoy the music of the Dead, interviews and some surprises
 
+#### 7:52 PM
+Bob Weir Heaven Help the Fool   
+Arista
+
+#### 7:50 PM
+Old and in the Way - Panama Red   
+10/1/73 The Boarding House, San Francisco, Ca. Acoustic Disc 1975 LP
+
 #### 7:23 PM
 Grateful Dead - New Speedway Boogie   
 9/20/70 Fillmore East - New York, NY. Grateful Dead
