@@ -1,6 +1,6 @@
 
-By Ben Cohen
-Photographs by Todd Meier for WSJ
+By Ben Cohen   
+Photographs by Todd Meier for WSJ   
 Dec. 30, 2024 5:30 am ET
 
 ## It’s the Most Indispensable Machine in the World—and It Depends on This Woman
