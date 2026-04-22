@@ -1,7 +1,7 @@
 
 ### Royalty Purple Pod Bush Beans
 
-- [royalty purple pod seeds](https://trueleafmarket.com/products/organic-royalty-purple-pod-bush-bean)
+- [royalty purple pod seeds](https://trueleafmarket.com/products/bean-bush-royal-burgundy)
 
 Royalty Purple Pod bush beans typically contain approximately 80 to 100 seeds per ounce. For planting, one ounce is usually sufficient to sow a short row, while a full pound is recommended for larger, more productive garden plots, commonly available at suppliers like True Leaf Market.
 
