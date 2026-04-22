@@ -27,7 +27,9 @@ They are highly productive and easy to harvest, with the contrasting purple colo
 
 ### Georgia Southern Collard Greens
 
-- [Seeds](https://trueleafmarket.com/products/collards-georgia-southern)
+
+- [all collard green seeds](https://trueleafmarket.com/collections/collard-garden-seed)
+- [collards georgia southern](https://trueleafmarket.com/products/collards-georgia-southern)
 
 Yes, Georgia Southern collard greens (a classic,, heat-tolerant, and cold-hardy heirloom) grow very well in Oregon. Because they thrive in cooler weather and can handle frost, they are ideal for Oregon’s spring and, particularly, fall/winter gardens.
 
