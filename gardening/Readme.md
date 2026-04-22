@@ -41,6 +41,8 @@ Harvesting: You can start harvesting leaves 60–75 days after planting, with th
 
 ### Tenderette green beans
 
+- [ref seed](https://trueleafmarket.com/products/tenderette-green-bean)
+
 Yes, Tenderette green beans thrive in the Willamette Valley, Oregon. They are highly recommended for the region due to their high yields, stringless, 5–6 inch dark green pods, and reliability for canning or freezing. They are a popular, reliable bush bean variety well-suited for Oregon home gardens.
 Growing Fruit
 Growing Fruit
