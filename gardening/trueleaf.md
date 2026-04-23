@@ -20,3 +20,11 @@
 ### Georgia Southern Collard Greens
 
 - [collards georgia southern](https://trueleafmarket.com/products/collards-georgia-southern)
+
+### Collards Seeds - Morris Heading
+
+- [collards morris heading](https://trueleafmarket.com/products/collards-morris-heading)
+
+### Collards Seeds - Champion
+
+- [collards champion](https://trueleafmarket.com/products/collards-champion-seeds)
