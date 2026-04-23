@@ -1,4 +1,9 @@
 
+
+### Bean Seeds - Bush - Top Notch Golden Wax
+
+- [seed ref](https://trueleafmarket.com/products/bean-wax-bush-top-notch-golden-wax#review-section)
+
 ### Royalty Purple Pod Bush Beans
 
 - [royalty purple pod seeds](https://trueleafmarket.com/products/bean-bush-royal-burgundy)
