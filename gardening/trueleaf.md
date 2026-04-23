@@ -17,7 +17,7 @@
 
 - [all collard green seeds](https://trueleafmarket.com/collections/collard-garden-seed)
 
-### Georgia Southern Collard Greens
+### Collard Greens Georgia Southern
 
 - [collards georgia southern](https://trueleafmarket.com/products/collards-georgia-southern)
 
