@@ -1,4 +1,11 @@
 
+### Bean Seeds - Bush - Royalty Purple Pod (Organic)
+
+- [seed ref](https://trueleafmarket.com/products/organic-royalty-purple-pod-bush-bean)
+
+### Bean Seeds - Bush - Tendergreen (Organic)
+
+- [seed ref](https://trueleafmarket.com/products/organic-tendergreen-bush-bean)
 
 ### Bean Seeds - Bush - Top Notch Golden Wax
 
