@@ -14,6 +14,9 @@ But DO NOT plant sunflowers in with them.  You can plant several sunflowers
 in with the collards but only a few.  If you have too many then they get
 in the way.
 
+The amaranth grows and will drop seeds in the `north east quadrant` of the
+garden which is closest to Alexander and the garden shed.
+
 Keep the amaranth and the sunflowers together as they create a mutual
 forest of beauty but do not attempt to plant other stuff with them as
 they will take over and you can not access into the plants themselves.
