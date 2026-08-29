@@ -1,4 +1,53 @@
 
+## Notes 2026
+
+### The following points are about gardening at Russell's.
+
+Do not plant bush beans in the future here because they are getting eaten
+by some different types of critters including I believe a porcupine.  I found
+a porcupine quill in the garden next to the bush beans sticking in the dirt :)
+
+The collard greens this summer turned out to be good.  So I think Russell's
+is the place to plant the collard greens.
+
+But DO NOT plant sunflowers in with them.  You can plant several sunflowers
+in with the collards but only a few.  If you have too many then they get
+in the way.
+
+Keep the amaranth and the sunflowers together as they create a mutual
+forest of beauty but do not attempt to plant other stuff with them as
+they will take over and you can not access into the plants themselves.
+
+### The following notes are about gardening at home.
+
+Do not plant the collard greens in pots at home.  It did not work out.
+They like to be in the soil at Russell's and this year no critters including
+the deer did not eat them.
+
+You can plant the bush beans in pots which seems to have worked out pretty
+good.  But overall the bush beans were not that successful.  At least the
+variety I tried this summer.
+
+There are 2 other varieties that I purchased that have not yet been used
+so next summer try them out instead of the version we tried this summer.
+
+You can tell because the packages have not been opened.
+
+### Ideas for Russell's next summer
+
+- Lets try again to plant the parsnips that Bina likes to plant.
+- They go to seed which is kind of cool as well over the next winter
+- So I think it would be nice to give that a shot again
+- I would just focus on Collard greens unless you find something else
+- It might be kind of cool to plant a bit of corn just for the ornamentals of it
+
+### Having the tomatoes in the western part of the garden seems to work
+
+But we are going to need to amend the soil some and more where ever
+you plant the tomatoes.
+
+---
+
 ### Bean Seeds - Bush - Royalty Purple Pod (Organic)
 
 - [seed ref](https://trueleafmarket.com/products/organic-royalty-purple-pod-bush-bean)
