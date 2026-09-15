@@ -47,6 +47,11 @@ For several reasons.
 - 4. Next year I would just focus on growing tomatoes at Russell's but you are going to have to do some major soil amendments to even try again to make this work.
 - 5. The first thing you need to do is heavily put in some tack box compost using the wheel barrow for each individual hole you will probably need about 1/2 of a wheel barrow of dirt along with some amendments.
 
+### You could try growing tomatoes in the fava bean beds
+
+- 1. If for some reason you want to try this again at home next summer.
+- 2. Then plant the tomatoes in the ground and not in the pots :)
+
 ### Ideas for Russell's next summer
 
 - Lets try again to plant the parsnips that Bina likes to plant.
