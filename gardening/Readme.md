@@ -36,6 +36,17 @@ so next summer try them out instead of the version we tried this summer.
 
 You can tell because the packages have not been opened.
 
+### Do not try and grow tomatoes in pots in front of the old shed slab
+
+This is fairly self explanatory but this summer it did not work out at all.
+For several reasons.
+
+- 1. The tomatoes get dried out quickly in the pots and need too much water
+- 2. None of the tomatoes worked, got red, etc.
+- 3. It was a total disaster at home in the backyard in the pots
+- 4. Next year I would just focus on growing tomatoes at Russell's but you are going to have to do some major soil amendments to even try again to make this work.
+- 5. The first thing you need to do is heavily put in some tack box compost using the wheel barrow for each individual hole you will probably need about 1/2 of a wheel barrow of dirt along with some amendments.
+
 ### Ideas for Russell's next summer
 
 - Lets try again to plant the parsnips that Bina likes to plant.
