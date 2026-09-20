@@ -10,6 +10,10 @@ a porcupine quill in the garden next to the bush beans sticking in the dirt :)
 The collard greens this summer turned out to be good.  So I think Russell's
 is the place to plant the collard greens.
 
+Updated note on the Collards is that they continued to do well as the
+season progressed and well into late September they were still cranking
+along.  So be sure and plant them in the southeast corner of the garden.
+
 But DO NOT plant sunflowers in with them.  You can plant several sunflowers
 in with the collards but only a few.  If you have too many then they get
 in the way.
@@ -54,11 +58,16 @@ For several reasons.
 
 ### Ideas for Russell's next summer
 
+- Plant the parsnips in with the red amaranth and sunflowers
 - Lets try again to plant the parsnips that Bina likes to plant.
 - They go to seed which is kind of cool as well over the next winter
 - So I think it would be nice to give that a shot again
 - I would just focus on Collard greens unless you find something else
 - It might be kind of cool to plant a bit of corn just for the ornamentals of it
+
+### Plant only collards in their own spot with nothing else
+
+- this way you can get in there and easily weed the collard greens
 
 ### Having the tomatoes in the western part of the garden seems to work
 
