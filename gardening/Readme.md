@@ -1,6 +1,14 @@
 
 ## Notes 2026
 
+### Do not ever buy new tomato cages, use sticks instead
+
+This year I bought tomato cages but on one of my plants
+I used sticks instead and they worked out much better.
+
+So moving forward do not purchase new tomato cages and for
+the most part you do not even need to use them again.
+
 ### The following points are about gardening at Russell's.
 
 Do not plant bush beans in the future here because they are getting eaten
