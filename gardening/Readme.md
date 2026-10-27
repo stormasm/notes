@@ -1,6 +1,27 @@
 
 ## Notes 2026
 
+Pine needles are good mulch.  Put them on the side yard
+in the spots where you do not currently have leaves.
+Do not throw them in the yard waste bin.
+
+### Hakurei hybrid Japanese turnips 
+
+Oktar brought these to us a few weeks back in our big
+bag of vegetables that he picks up from the gleaners.
+
+So I took a picture of them on Google and found out about
+them that way !
+
+(Brassica rapa subsp. rapa) are fast-growing, mild-flavored root vegetables known for their crisp texture and sweet, tender, pure-white flesh. Often called "salad turnips" or the "Caviar of Turnips," they were bred in Japan in the mid-20th century
+
+Feature	Details
+
+- Root Type: Small, slightly flattened round white roots (up to 2 inches in diameter)
+- Flavor & Texture: Sweet, fruity, and mild; crisp and tender when raw, or buttery and mellow when cooked
+- Greens: Dark-green, hairless, edible tops with a mild, peppery or mustard-like bite
+- https://pureasiaseeds.com/en-us/blogs/news/the-complete-guide-to-growing-hakurei-hybrid-japanese-turnip
+
 ### Do not ever buy new tomato cages, use sticks instead
 
 This year I bought tomato cages but on one of my plants
