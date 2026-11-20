@@ -1,4 +1,9 @@
-Here are clean, ad-free official links covering Voyager 1 reaching one light-day (about 16 billion miles) from Earth on November 18–19, 2026:
+
+November 18,2026
+
+### Voyager 1 reaching one light-day from Earth
+
+About 16 billion miles
 
 * [**NASA Press Release: NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth**](https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/) – NASA’s official announcement confirming the milestone, signal travel times, and mission statements.  
 * [**NASA Science: Voyager 1 – What Is a Light-Day?**](https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/) – An interactive explainer with cosmic distance comparisons and visualizations of how long signals take to reach the probe.  
