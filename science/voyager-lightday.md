@@ -1,7 +1,7 @@
 
-November 18,2026
+November 18, 2026
 
-### Voyager 1 reaching one light-day from Earth
+### Voyager 1 reaches one light-day from Earth
 
 About 16 billion miles
 
